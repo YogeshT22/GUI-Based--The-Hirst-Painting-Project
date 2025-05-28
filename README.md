@@ -4,7 +4,7 @@ A Python-based visual recreation of Damien Hirst's dot paintings using the Turtl
 
 ## 📷 Preview
 
-![Screenshot of Hirst Painting Output](src.jpg)
+<img src="src.jpg" alt="Screenshot of Hirst Painting Output" width="500">
 
 ## 📌 Features
 
